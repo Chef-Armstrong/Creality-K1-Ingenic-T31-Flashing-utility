@@ -21,7 +21,7 @@ Grab the K1 camera and put an adaptor on the end so it can be converted from JST
 
 
 Step 2:
-Download the firmware upgrade software and decompress it
+Download the firmware upgrade software and decompress it https://github.com/Chef-Armstrong/Creality-K1-Ingenic-T31-Flashing-utility/blob/main/K1_CAM_FLASHING_UTILITY.zip
 
 
 

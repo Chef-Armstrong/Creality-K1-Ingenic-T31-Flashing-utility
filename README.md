@@ -3,10 +3,7 @@
 
 This is a repo to store the flashing utility along with being a guide to flash the K1 camera to allow for more control
 
-Thanks to the people over at SimpleAf who were ecessial in making this possible https://discord.gg/fzdZCXS95a
-Exor
-Hypermist
-H8isGR8
+Thanks to the people over at SimpleAf who were ecessial in making this possible https://discord.gg/fzdZCXS95a @Exor, @Hypermist, @H8isGR8,
 
 Some of this guide is a copy of the Nebula Camera installation firmware ugrade guide
 https://wiki.creality.com/en/3d-printer-accessories/nebula-camera-installation-firmware-upgrade

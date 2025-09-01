@@ -1,4 +1,4 @@
-# Creality-K1-Ingenic-T31-Flashing-utility
+# WORK IN PROGRESS Creality-K1-Ingenic-T31-Flashing-utility
 
 
 This is a repo to store the flashing utility along with being a guide to flash the K1 camera to allow for more control
